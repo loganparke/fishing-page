@@ -2,6 +2,7 @@ body {
     background-image: url("https://flyfishingwaters.com/wp-content/uploads/2021/04/Old-Irwin-Lodge-Snake-River-Floaters-1-scaled.jpg");
     background-size: cover;
     background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
 header {
